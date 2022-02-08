@@ -1,7 +1,7 @@
-package com.api.pakingControl.services;
+package com.api.parkingControl.services;
 
-import com.api.pakingControl.models.ParkingSpotModel;
-import com.api.pakingControl.repositories.ParkingSpotRepository;
+import com.api.parkingControl.models.ParkingSpotModel;
+import com.api.parkingControl.repositories.ParkingSpotRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

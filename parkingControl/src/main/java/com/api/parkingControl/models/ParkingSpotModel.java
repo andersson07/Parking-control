@@ -1,4 +1,4 @@
-package com.api.pakingControl.models;
+package com.api.parkingControl.models;
 
 import javax.persistence.*;
 import java.io.Serializable;

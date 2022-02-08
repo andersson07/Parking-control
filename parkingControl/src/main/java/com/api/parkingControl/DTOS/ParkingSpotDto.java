@@ -1,4 +1,4 @@
-package com.api.pakingControl.DTOS;
+package com.api.parkingControl.DTOS;
 
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;

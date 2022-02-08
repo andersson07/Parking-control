@@ -1,8 +1,8 @@
-package com.api.pakingControl.controllers;
+package com.api.parkingControl.controllers;
 
-import com.api.pakingControl.DTOS.ParkingSpotDto;
-import com.api.pakingControl.models.ParkingSpotModel;
-import com.api.pakingControl.services.ParkingSpotService;
+import com.api.parkingControl.DTOS.ParkingSpotDto;
+import com.api.parkingControl.models.ParkingSpotModel;
+import com.api.parkingControl.services.ParkingSpotService;
 import org.springframework.beans.BeanUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
